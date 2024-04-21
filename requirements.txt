@@ -1,0 +1,3 @@
+selenium==4.13.0
+prettytable==3.9.0
+bs4==4.12.2
