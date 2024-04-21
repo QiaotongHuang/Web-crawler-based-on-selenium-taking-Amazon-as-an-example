@@ -1,20 +1,21 @@
-INFO 7390 Project 1: Web Data Extraction/Web scraper
+# INFO 7390 Project 1: Web Data Extraction/Web Scraper
+
 Author: QIAOTONG HUANG (002728446)
 
+## Requirements:
 
-Requirements:
+- Python 3.8+
+- Packages specified in `requirements.txt`.
+- Install with `pip install -r requirements.txt`.
 
-    - Python 3.8+
-    - Packages specified in `requirements.txt`:
-    - Install with `pip install -r requirements.txt`
+## Report and Code:
 
-Report and Code: 
-    - You can find out more about my ideas and process in the report
-    - To Run the code, please either run `scrape_amazon.ipynb` in Jupiter Notebook or
-      Run 'main.py' from `code` file in Terminal
+- For detailed information about the project's ideas and process, please refer to the report.
+- To run the code:
+  - Execute `scrape_amazon.ipynb` in Jupyter Notebook.
+  - Run `main.py` from the `code` directory in the Terminal.
 
-Code structure:
-
+## Code Structure:
 ```
 Code
   |- scrape_amazon.ipynb
@@ -26,8 +27,5 @@ Code
   |- amazon_login.py
   |- requirements
   |- README.txt
-
-
+  |- outputs/ (All outputs are saved in this directory)
 ```
-
-All Outputs are saved in file named as 'outputs'
