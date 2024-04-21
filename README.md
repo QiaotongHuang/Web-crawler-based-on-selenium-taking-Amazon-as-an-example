@@ -1,6 +1,6 @@
 # INFO 7390 Project 1: Web Data Extraction/Web Scraper
 
-Author: QIAOTONG HUANG (002728446)
+Author: QIAOTONG HUANG
 
 ## Requirements:
 
@@ -16,6 +16,7 @@ Author: QIAOTONG HUANG (002728446)
   - Run `main.py` from the `code` directory in the Terminal.
 
 ## Code Structure:
+
 ```
 Code
   |- scrape_amazon.ipynb
